@@ -20,7 +20,8 @@ pre.text {
   padding-right: 10px;
   margin-left: 40px;
   box-shadow: 5px 5px 10px;
-  background-color: #eaeffa;
+  background-color: #eaeffa
+  page-break-inside: avoid;
 }
 p {
   font-size: 100%;
